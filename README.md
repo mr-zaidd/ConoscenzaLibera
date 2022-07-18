@@ -25,7 +25,10 @@ un Sognatore.
 
 ## LIBERATORIA, MANTENIMENTO, SEGNALAZIONE ERRORI
 
-Tutti i documenti all'interno di questa repository vengono messi a disposizione nel solo formato PDF, sebbene siano appunti universitari di proprietà di Ramiro Calò sono stati dallo stesso rimodellati per avere una migliore esposizione e leggibilità. Ogni opera è mantenuta e aggiornata da Ramiro Calò. La loro esistenza non garantisce la correttezza del contenuto, per tale motivo si è invitati a segnalare eventuali errori ad uno dei seguenti indirizzi email:
+Tutti i documenti all'interno di questa repository vengono messi a disposizione nel solo formato PDF, sebbene siano appunti universitari di proprietà di Ramiro Calò sono stati dallo stesso rimodellati per avere una migliore esposizione e leggibilità. La licenza sotto la quale ogni opera, come viene abbreviato nella seconda pagina di ogni documento, si può leggere nella sua interezza [QUI](https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode). L'utilizzo dei documenti in questa repo è da considerarsi esclusivamente didattico, lo scopo è di diffondere nozioni più o meno basilari nell'ambito informatico e allo stesso tempo essere un supporto per universitari che intraprendono un percorso di studi nel suddetto ambito. Ogni utilizzo che viola la licenza o non è conforme al manifesto, sopra riportato, violando di fatto le finalità che hanno tali documenti, sarà preso in considerazione per un procedimento legale.
+
+Ogni opera è mantenuta e aggiornata da Ramiro Calò.
+La loro esistenza non garantisce la correttezza del contenuto, per tale motivo si è invitati a segnalare eventuali errori ad uno dei seguenti indirizzi email:
 
  + ramiro.calo@edu.unito.it
  + rc.ramirocalo@gmail.com
