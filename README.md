@@ -60,12 +60,12 @@ Lista delle cartelle e PDF:
 
 + Reti di Calcolatori
     + Introduzione alle Reti di Calcolatori e Internet
-    + Programmazione Client-Server con Socket in ```C``` e ```Python``` [IN CORSO DI STESURA]
+    + Programmazione Client-Server con Socket in ```C``` e ```Python``` **[IN CORSO DI STESURA]**
 
 + Sicurezza
-    + Introduzione alla Sicurezza Informatica [IN CORSO DI STESURA]
-    
+    + Introduzione alla Sicurezza Informatica **[IN CORSO DI STESURA]**
+
 + Sviluppo di Applicazioni Software
-    + Introduzione a Sviluppo di Applicazioni Software [IN CORSO DI STESURA]
-    + Introduzione al Process Mining e Conformance Checking [IN CORSO DI STESURA]
+    + Introduzione a Sviluppo di Applicazioni Software **[IN CORSO DI STESURA]**
+    + Introduzione al Process Mining e Conformance Checking **[IN CORSO DI STESURA]**
 
