@@ -27,6 +27,11 @@ un Sognatore.
 
 Tutti i documenti all'interno di questa repository vengono messi a disposizione nel solo formato PDF, sebbene siano appunti universitari di proprietà di Ramiro Calò sono stati dallo stesso rimodellati per avere una migliore esposizione e leggibilità. La licenza sotto la quale ogni opera, come viene abbreviato nella seconda pagina di ogni documento, si può leggere nella sua interezza [QUI](https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode). L'utilizzo dei documenti in questa repo è da considerarsi esclusivamente didattico, lo scopo è di diffondere nozioni più o meno basilari nell'ambito informatico e allo stesso tempo essere un supporto per universitari che intraprendono un percorso di studi nel suddetto ambito. Ogni utilizzo che viola la licenza o non è conforme al manifesto, sopra riportato, violando di fatto le finalità che hanno tali documenti, sarà preso in considerazione per un procedimento legale.
 
+Per coloro che vogliono supportare finanziariamente il progetto e vogliono offrire un caffè:
+<a href="https://www.paypal.com/donate/?hosted_button_id=2AGUAZ9VZGUEY">
+    <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" style="width: 200px; height: 77px;"/>
+</a>
+
 Ogni opera è mantenuta e aggiornata da Ramiro Calò.
 La loro esistenza non garantisce la correttezza del contenuto, per tale motivo si è invitati a segnalare eventuali errori ad uno dei seguenti indirizzi email:
 
@@ -43,8 +48,24 @@ Per essere presi in cosiderazione sulla segnalazione degli errori seguire le reg
 		+ Di Formattazione: Segnalare in maniera precisa la posizione dell'errore: Titolo del PDF, Argomento della Table of Contents, Numero pagina (o pagine) e Numero di Riga. 
         + Esplicativo: Se si considera una spiegazione di un argomento o più argomenti macchinosa o poco chiara si può essere d'aiuto fornendo una propria spiegazione che sarà presa in considerazione, analizzata e se ritenuto opportuno aggiunta come nuova spiegazione o sostituita a quella esistente, in ogni caso verrà citata la paternità di tale spiegazione alla persona che la fornisce. Pertanto affinchè si possa fornire tale paternità si invita il mittente a fornire: Nome, Cognome, fonti, eventuale qualifica di istruzione, link di contatto e un indirizzo email valido.
 
-+ Chiunque voglia essere d'aiuto nel mantenimento e nella pubblicizzazione di tale repo è benvenuto e può mettersi in contatto tramite gli indirizzi email sopra citati, verrà aggiunto, tramite menzione, in una futura sezione del "README" come collaboratore. Si precisa che comunque nessuna persona, fisica e non, potrà avere accesso alla repo in maniera diretta, di conseguenza non si confonda il termine "collaboratore" con il termine "contributor" presente nella piattaforma di Github, non sono sinonimi nè potranno esserlo in futuro. Tale scelta viene presa per avere una maggiore consistenza della repo dato che viene ritenuta dal proprietario di estrema importanza.
-
 + Si sottolinea che nessuna email di qualsiasi entità o contenuto sarà presa in considerazione se non verranno rispettate le regole sopra citate e se non è presente una firma al fondo contenente Nome, Cognome e informazioni valide per il contatto.
 
++ Chiunque voglia essere d'aiuto è il benvenuto ed è invitato a contattarmi tramite mail.
+
 ## DESCRIZIONE DELLA REPOSITORY
+
+Ogni cartella è donominata secondo il nome della materia e contiene documenti PDF relativi.
+
+Lista delle cartelle e PDF:
+
++ Reti di Calcolatori
+    + Introduzione alle Reti di Calcolatori e Internet
+    + Programmazione Client-Server con Socket in ```C``` e ```Python``` [IN CORSO DI STESURA]
+
++ Sicurezza
+    + Introduzione alla Sicurezza Informatica [IN CORSO DI STESURA]
+    
++ Sviluppo di Applicazioni Software
+    + Introduzione a Sviluppo di Applicazioni Software [IN CORSO DI STESURA]
+    + Introduzione al Process Mining e Conformance Checking [IN CORSO DI STESURA]
+
