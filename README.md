@@ -58,6 +58,9 @@ Ogni cartella è donominata secondo il nome della materia e contiene documenti P
 
 Lista delle cartelle e PDF:
 
++ Architettura degli Elaboratori
+    + Introduzione ad Architettura degli Elaboratori **[IN CORSO DI STESURA]**
+
 + Reti di Calcolatori
     + Introduzione alle Reti di Calcolatori e Internet
     + Programmazione Client-Server con Socket in ```C``` e ```Python``` **[IN CORSO DI STESURA]**
