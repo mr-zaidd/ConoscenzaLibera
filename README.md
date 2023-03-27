@@ -59,16 +59,16 @@ Ogni cartella è donominata secondo il nome della materia e contiene documenti P
 Lista delle cartelle e PDF:
 
 + Architettura degli Elaboratori
-    + Introduzione ad Architettura degli Elaboratori **[IN CORSO DI STESURA]**
+    + Introduzione ad Architettura degli Elaboratori **[IN CORSO DI STESURA]** :building_construction:
 
 + Reti di Calcolatori
-    + Introduzione alle Reti di Calcolatori e Internet
-    + Programmazione Client-Server con Socket in ```C``` e ```Python``` **[IN CORSO DI STESURA]**
+    + Introduzione alle Reti di Calcolatori e Internet :white_check_mark:
+    + Programmazione Client-Server con Socket in ```C``` e ```Python``` **[IN CORSO DI STESURA]** :building_construction:
 
 + Sicurezza
-    + Introduzione alla Sicurezza Informatica **[IN CORSO DI STESURA]**
+    + Introduzione alla Sicurezza Informatica **[IN CORSO DI STESURA]** :building_construction:
 
 + Sviluppo di Applicazioni Software
-    + Introduzione a Sviluppo di Applicazioni Software **[IN CORSO DI STESURA]**
-    + Introduzione al Process Mining e Conformance Checking **[IN CORSO DI STESURA]**
+    + Introduzione a Sviluppo di Applicazioni Software **[IN CORSO DI STESURA]** :building_construction:
+    + Introduzione al Process Mining e Conformance Checking **[IN CORSO DI STESURA]** :building_construction:
 
